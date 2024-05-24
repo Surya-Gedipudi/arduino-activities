@@ -1,5 +1,5 @@
 /*
-  Name:
+  Name: Surya Gedipudi
   Project: Blinking LED
 */
 
@@ -10,15 +10,15 @@ const int LEDPin = 12; // Make sure this is the same pin that
 // Setup code runs once to initialize pins, serial monitor, etc.
 void setup()
 {
-    // put your setup code here, to run once:
-    pinMode(LEDPin, OUTPUT); // Setting the LEDPin to be an output
+  // put your setup code here, to run once:
+  pinMode(LEDPin, OUTPUT); // Setting the LEDPin to be an output
 }
 
 // Loop code runs repeatedly
 void loop()
 {
-    digitalWrite(LEDPin, HIGH); // Turn the LED on
-    delay(1000);                // Wait 1 sec
-    digitalWrite(LEDPin, LOW);  // Turn the LED off
-    delay(1000);                // Wait 1 sec
+  digitalWrite(LEDPin, HIGH); // Turn the LED on
+  delay(1000);                // Wait 1 sec
+  digitalWrite(LEDPin, LOW);  // Turn the LED off
+  delay(1000);                // Wait 1 sec
 }
