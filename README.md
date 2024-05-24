@@ -1,2 +1,7 @@
 # arduino-activities
-Repository for the code and circuitry(images + description) used for Arduino.
+
+### This repository contains folders for each arduino activity. Each folder/activity has images representing the circuit and object(s)/device(s) being used and the code files written in the C programming language.
+
+### IMPORTANT:
+
+#### It is highly recommended to use the code in the Arduino IDE, not another IDE like Visual Studio Code. You should write or copy/paste the code from this repository to the Arduino IDE in a ".ino" file. Writing or copy/pasting the code into a ".c" or ".ino" file in Visual Studio Code will most likely not work unless other extensions are installed.
