@@ -1,4 +1,4 @@
-# arduino-activities
+# Arduino Uno Projects Repository Information
 
 ### This repository contains folders for each arduino activity. Each folder/activity has images representing the circuit and object(s)/device(s) being used and the code files written in the C programming language.
 
